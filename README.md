@@ -13,3 +13,7 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+#Ropsten Etherscane Test Netork
+
+************Ropsten Etherscane : https://ropsten.etherscan.io/address/0x42470A5D1F97ecD56c34bA7E1EDFD559b6078438
+************
